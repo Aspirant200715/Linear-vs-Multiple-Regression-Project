@@ -72,6 +72,10 @@ The Jupyter Notebook follows a structured data science workflow:
 5.  **Model Training:**
     *   Initializing the Linear Regression model.
     *   Fitting the model to the training data.
+    *   **Gradient Descent Implementation:**
+        *   Defining the cost function.
+        *   Iteratively updating model parameters (weights and bias) to minimize error.
+        *   Visualizing the convergence of the cost function.
 6.  **Model Evaluation:**
     *   Predicting values on the test set.
     *   Calculating performance metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), and Root Mean Squared Error (RMSE).
@@ -106,5 +110,3 @@ A full list of all packages and their specific versions is available in `require
 ## Contributing
 
 Contributions are welcome! If you have suggestions for improvements, please feel free to open an issue or submit a pull request.
-
-
