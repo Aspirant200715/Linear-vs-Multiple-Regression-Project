@@ -6,7 +6,6 @@ This project demonstrates the implementation of a linear regression model to pre
 
 Please describe the dataset used in this project. Mention its source, features, and the target variable.
 
-*   **Source:** [Link to dataset or description of where it came from]
 *   **Features:** List the independent variables (e.g., `Age`, `Area`, `Bedrooms`).
 *   **Target Variable:** The dependent variable to be predicted (e.g., `Price`).
 
