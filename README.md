@@ -84,9 +84,6 @@ The Jupyter Notebook follows a structured data science workflow:
 
 A recommended structure for this project:
 ```
-.
-├── data/                  # Directory for the dataset
-│   └── your_dataset.csv
 ├── notebooks/             # Directory for Jupyter notebooks
 │   └── linear_regression.ipynb
 ├── requirements.txt       # Project dependencies
